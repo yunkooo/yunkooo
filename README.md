@@ -5,9 +5,10 @@ I'm Yunkoo Lee, a growing Front-end developer.🌱
 <br>
 <h3 align=center>✏️ Tech Studying ✏️</h3>  
 <p align=center>
-<img alt="html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp
-<img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp
-<img alt="js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>&nbsp
+<img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=HTML5&logoColor=white"/>&nbsp
+<img alt="js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=HTML5&logoColor=white"/>
+
 </p>
 
 <h3 align="center">•••</h3>
@@ -23,8 +24,6 @@ I'm Yunkoo Lee, a growing Front-end developer.🌱
 
 ![yunkooo's github stats](https://github-readme-stats.vercel.app/api?username=yunkooo&show_icons=true&theme=synthwave)
 [![yunkooo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunkooo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yunkooo)
-
-</div>
 
 <!--
 **yunkooo/yunkooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
