@@ -13,8 +13,8 @@ I'm Yunkoo Lee, a growing Front-end developer.🌱
 
 <h3 align="center">•••</h3>
 <p align=center>
-<a href="https://velog.io/@yunkooo" target=_blank><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yunkooo"/></a>&nbsp
-<a href="mailto:yunkoooooo@gmail.com" target=_blank><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunkoooooo@gmail.com"/></a>
+<a href="https://velog.io/@yunkooo" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yunkooo"/></a>&nbsp
+<a href="mailto:yunkoooooo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunkoooooo@gmail.com"/></a>
 </p>
 <br>
 
@@ -24,6 +24,7 @@ I'm Yunkoo Lee, a growing Front-end developer.🌱
 
 ![yunkooo's github stats](https://github-readme-stats.vercel.app/api?username=yunkooo&show_icons=true&theme=synthwave)
 [![yunkooo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunkooo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yunkooo)
+
 
 <!--
 **yunkooo/yunkooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
