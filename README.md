@@ -10,9 +10,10 @@
 
  ### ✏️studying
 
-<img alt="html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white&row=1&column=1/">       
+<img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white&row=1&column=2"/>
+<img alt="js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=HTML5&logoColor=white&row=1&column=3"/>
+
 
 <!--
 **yunkooo/yunkooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
