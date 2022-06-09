@@ -6,15 +6,15 @@ I'm Yunkoo Lee, a growing Front-end developer.🌱
 <h3 align=center>✏️ Tech Studying ✏️</h3>  
 <p align=center>
 <img alt="html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>&nbsp
-<img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=HTML5&logoColor=white"/>&nbsp
-<img alt="js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=HTML5&logoColor=white"/>
+<img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white"/>&nbsp
+<img alt="js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 
 </p>
 
 <h3 align="center">•••</h3>
 <p align=center>
-<a href="https://velog.io/@yunkooo" target="_blank"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
-<a href="mailto:yunkoooooo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@yunkooo" target="_blank"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"></a>&nbsp
+<a href="mailto:yunkoooooo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 <br>
 
