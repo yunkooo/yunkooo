@@ -14,7 +14,7 @@ I'm Yunkoo Lee, a growing Front-end developer.🌱
 <h3 align="center">•••</h3>
 <p align=center>
 <a href="https://velog.io/@yunkooo" target="_blank"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"></a>&nbsp
-<a href="mailto:yunkoooooo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
+<a href="mailto:yunkoooooo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 <br>
 
